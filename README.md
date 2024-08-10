@@ -1,7 +1,10 @@
 <div align="center">
     
 # 👋 Welcome to My Code World! 🌍
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=200&lines=Samuel+Semaya;Data+Analyst+%7C+Data+Scientist+%7C+Data+Enthusiast)](https://github.com/samuelsemaya)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=500&lines=SAMUEL+SEMAYA;Data+Analyst+%7C+Data+Scientist+%7C+Data+Enthusiast)](https://git.io/typing-svg) <br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelsemaya) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samuelsemaya)
 
 ## 🚀 About Me
 Hi there! I'm a passionate Data Analyst, Data Science, and Machine Learning with a deep love for technology and innovation. When I'm not typing away at my keyboard, you can find me exploring new technologies, contributing to open-source projects, or enjoying a delicious cup of ☕ coffee.
@@ -25,14 +28,6 @@ Hi there! I'm a passionate Data Analyst, Data Science, and Machine Learning with
 - Blockchain Development 🔗
 - Machine Learning 🤖
 - Cloud Architecture ☁️--->
-
-## 📫 Let's Connect!
-<div align="center">
-    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelsemaya) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samuelsemaya)
-
-</div>
 
 ## 🎵 Now Playing
 
