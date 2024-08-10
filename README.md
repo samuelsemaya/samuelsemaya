@@ -36,7 +36,7 @@ Hi there! I'm a passionate Data Analyst, Data Science, and Machine Learning with
 
 ## 🎵 Now Playing
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31desakm3d5gzq6ta7h37qkrslwi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31desakm3d5gzq6ta7h37qkrslwi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31desakm3d5gzq6ta7h37qkrslwi&redirect=true)
 
 ## ✍️ Random Dev Quote
 <div align="center">
