@@ -20,12 +20,12 @@ Hi there! I'm a passionate Data Analyst, Data Science, and Machine Learning with
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuelsemaya&theme=radical)<br><br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsemaya&layout=compact&theme=radical)
 
-## 🔝 Top Contributed Repo
+<!---## 🔝 Top Contributed Repo
 <div align="center">
     
 ![](https://github-contributor-stats.vercel.app/api?username=samuelsemaya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-</div>
+</div>--->
 
 <!---## 🌱 I'm Currently Learning
 
