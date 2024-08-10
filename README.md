@@ -20,9 +20,9 @@ Hi there! I'm a passionate Data Analyst, Data Science, and Machine Learning with
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31desakm3d5gzq6ta7h37qkrslwi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31desakm3d5gzq6ta7h37qkrslwi&redirect=true)
 
-## 📊 My GitHub Stats
+<!---## 📊 My GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuelsemaya&theme=radical)<br><br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsemaya&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsemaya&layout=compact&theme=radical)--->
 
 <!---## 🔝 Top Contributed Repo
 <div align="center">
