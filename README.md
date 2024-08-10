@@ -18,7 +18,7 @@ Hi there! I'm a passionate Data Analyst, Data Science, and Machine Learning with
 ## 📊 My GitHub Stats
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuelsemaya&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuelsemaya&theme=radical)<br><br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsemaya&layout=compact&theme=radical)
 
 
