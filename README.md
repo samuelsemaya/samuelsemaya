@@ -49,9 +49,24 @@ Hi there! I'm a passionate Data Analyst, Data Science, and Machine Learning with
 
 ## 🎵 Now Playing
 
-<div align="center">
-  <img src="/api/placeholder/250/80" alt="Spotify Now Playing">
-</div>
+const fetch = require('node-fetch');
+
+async function getCurrentSong() {
+    const token = 'YOUR_SPOTIFY_ACCESS_TOKEN';
+    const response = await fetch('https://api.spotify.com/v1/me/player/currently-playing', {
+        headers: {
+            'Authorization': `Bearer ${token}`
+        }
+    });
+    const data = await response.json();
+    if (data?.is_playing) {
+        console.log(`Now Playing: ${data.item.name} by ${data.item.artists[0].name}`);
+    } else {
+        console.log('No song is currently playing.');
+    }
+}
+
+getCurrentSong();
 
 <div align="center">
 
