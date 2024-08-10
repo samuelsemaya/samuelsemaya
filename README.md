@@ -17,18 +17,17 @@ Hi there! I'm a passionate Data Analyst, Data Science, and Machine Learning with
 
 ## 📊 My GitHub Stats
 
-<div align="center">
-  <img src="/api/placeholder/495/195" alt="GitHub Stats">
-</div>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuelsemaya&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsemaya&layout=compact&theme=radical)
+
 
 ## 🌟 Featured Projects
 
 <div align="center">
 
-| 🚀 [Awesome Project 1](https://github.com/username/project1) | 🌈 [Cool Project 2](https://github.com/username/project2) | 🎯 [Amazing Project 3](https://github.com/username/project3) |
-|:---:|:---:|:---:|
-| <img src="/api/placeholder/250/150" alt="Project 1"> | <img src="/api/placeholder/250/150" alt="Project 2"> | <img src="/api/placeholder/250/150" alt="Project 3"> |
-| Brief description of project 1 | Brief description of project 2 | Brief description of project 3 |
+| [Company Employee Data Application](https://github.com/samuelsemaya/data-karyawan-perusahaan) | [Airbnb Bangkok Analysis](https://github.com/samuelsemaya/airbnb-bangkok) | [E-Commerce Customer Churn Prediction](https://github.com/samuelsemaya/e-commerce-customer-churn) | [E-Customer Churn Predictor Web](https://github.com/samuelsemaya/e-commerce-customer-churn-streamlit) |
+|:---:|:---:|:---:|:---:|
 
 </div>
 
