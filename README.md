@@ -3,7 +3,7 @@
 # 👋 Welcome to My Code World! 🌍
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=SAMUEL+SEMAYA;Data+Analyst+%7C+Data+Scientist+%7C+Data+Enthusiast)](https://git.io/typing-svg) <br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelsemaya) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelsemaya) <a href="mailto:samuelsemaya29@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samuelsemaya)
 
 ## 🚀 About Me
