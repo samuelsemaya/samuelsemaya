@@ -1,3 +1,5 @@
+<div align="center">
+    
 # 👋 Welcome to My Code World! 🌍
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=200&lines=Samuel+Semaya;Data+Analyst+%7C+Data+Scientist+%7C+Data+Enthusiast)](https://github.com/samuelsemaya)
 
@@ -47,6 +49,8 @@ Hi there! I'm a passionate Data Analyst, Data Science, and Machine Learning with
 <div align="center">
     
 [![](https://visitcount.itsvg.in/api?id=samuelsemaya&icon=2&color=12)](https://visitcount.itsvg.in)
+
+</div>
 
 </div>
 
