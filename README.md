@@ -43,7 +43,7 @@ Hi there! I'm a passionate Data Analyst, Data Science, and Machine Learning with
 
 <div align="center">
     
-[![](https://visitcount.itsvg.in/api?id=samuelsemaya&icon=4&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=samuelsemaya&label=Profile%20Views&color=1&icon=2&pretty=false)](https://github.com/samuelsemaya)
 
 </div>
 
