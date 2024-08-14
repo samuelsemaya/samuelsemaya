@@ -4,13 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=SAMUEL+SEMAYA;Data+Analyst+%7C+Data+Scientist+%7C+Data+Enthusiast)](https://github.com/samuelsemaya) <br>
 <a href="https://samuelsemaya.framer.ai/">
-    <img src="https://badgen.net/badge/icon/samuelsemaya?icon=chrome&label=Website"> 
+    <img src="https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white" />
 <a href="https://drive.google.com/file/d/1uGQuCczLp7gF-bMBZr8ISLo7N-oBps75/view?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelsemaya)
 <a href="https://samuelsemaya.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" />    
-<a href="mailto:samuelsemaya29@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" />  <a href="mailto:samuelsemaya29@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samuelsemaya)
 
 ## 🚀 About Me
