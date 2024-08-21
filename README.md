@@ -8,6 +8,7 @@
 <a href="https://drive.google.com/file/d/1_h5MtCPd9TVXkvzKjbFPfIFZAtQDiYW0/view?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelsemaya)
+[![LinkedIn](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/samuelsemaya)
 <a href="https://samuelsemaya.medium.com/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" />  
 <a href="https://wa.me/6285161290496" target="blank">
