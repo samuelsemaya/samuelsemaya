@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=SAMUEL+SEMAYA;Data+Analyst+%7C+Data+Scientist+%7C+Data+Enthusiast)](https://github.com/samuelsemaya) <br>
 <a href="https://samuelsemaya.framer.ai/">
-    <img src="https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white" />
 <a href="https://drive.google.com/file/d/1_h5MtCPd9TVXkvzKjbFPfIFZAtQDiYW0/view?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelsemaya)
